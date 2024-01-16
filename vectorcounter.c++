@@ -1,4 +1,4 @@
-this is the most effcient code i have ever see to count the number of repetitions of a certain number in a vector 
+//this is efficent code to count the number of repetitions of a certain number in a vector 
 #include <vector>
 
 int findOdd(const std::vector<int>& numbers){
